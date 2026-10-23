@@ -1,1 +1,1 @@
-# strona-para-jakub
+# jakubkuzniar-prywatne
