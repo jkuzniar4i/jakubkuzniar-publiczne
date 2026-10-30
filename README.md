@@ -1,5 +1,5 @@
 # jakubkuzniar-publiczne
 Imię: Jakub
 Klasa: 4i
-Partner (login): sikojajo37
+Partner (login): MichalRobok
 https://jkuzniar4i.github.io/jakubkuzniar-publiczne/
